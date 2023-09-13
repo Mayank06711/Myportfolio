@@ -20,7 +20,7 @@ const Footer =()=>{
                     Let's make something<br/> amazing together.
                 </span>
                 <span className="primaryText">
-                    Start by <a href="mailto:mayank93soni@gamil.com">saying hi</a>
+                    Start by <a href="mailto:mayank93soni@gmail.com">saying hi</a>
                 </span>
         </div>
             <div className={css.right}>
